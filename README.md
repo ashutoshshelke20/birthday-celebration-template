@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Disclaimer:
 If you are using this repository and pushing it to your own GitHub account, please ensure that your repository is set to private.
 Keeping the repository public may unintentionally expose your images and other sensitive assets.
@@ -229,3 +230,6 @@ Refresh page (Ctrl + R)
 ---
 
 **Made with ❤️**
+=======
+# birthday-celebration-template
+>>>>>>> 0fe419518cfc675c06d5629f87a64eb50954943a
